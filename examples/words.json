@@ -1,0 +1,17 @@
+{
+ "duration": 6.2,
+ "words": [
+  {"word": "Open", "start": 0.50, "end": 0.82},
+  {"word": "the", "start": 0.86, "end": 0.98},
+  {"word": "settings", "start": 1.02, "end": 1.55},
+  {"word": "page.", "start": 1.60, "end": 2.05},
+  {"word": "Then", "start": 3.10, "end": 3.32},
+  {"word": "choose", "start": 3.36, "end": 3.74},
+  {"word": "your", "start": 3.78, "end": 3.95},
+  {"word": "theme.", "start": 4.00, "end": 4.50},
+  {"word": "And", "start": 5.05, "end": 5.20},
+  {"word": "you", "start": 5.23, "end": 5.36},
+  {"word": "are", "start": 5.39, "end": 5.52},
+  {"word": "done.", "start": 5.56, "end": 5.95}
+ ]
+}

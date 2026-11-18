@@ -1,0 +1,42 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Media and generated files: keep footage, audio, stills and renders out of the repository
+*.mp4
+*.mov
+*.mkv
+*.webm
+*.avi
+*.m4v
+*.wav
+*.mp3
+*.m4a
+*.aac
+*.flac
+*.ogg
+*.jpg
+*.jpeg
+*.png
+*.heic
+*.tif
+*.tiff
+*.webp
+*.gif
+*.ass
+*.srt
+*.part
+
+# Model weights
+*.onnx
+*.rnnn
+*.pt
+*.bin
+
+# Working folders
+out/
+takes/
+footage/
+.DS_Store

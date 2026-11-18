@@ -1,0 +1,6 @@
+# Python 3.9 or newer. ffmpeg and ffprobe must also be on PATH (see README).
+numpy          # tighten.py, nocatchlight.py, podcast_still.py, grade_looks.py
+soundfile      # tighten.py
+opencv-python-headless   # nocatchlight.py
+Pillow         # podcast_still.py, grade_looks.py
+rembg[cpu]     # podcast_still.py, grade_looks.py; not needed when you pass --mask

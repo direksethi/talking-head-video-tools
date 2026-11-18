@@ -1,0 +1,6 @@
+[
+  {"at": 0, "in": 0.0, "out": 2.0},
+  {"cue": "open the settings", "in": 2.0, "out": 4.6},
+  {"cue": "then choose your theme", "in": 5.0, "out": 10.4},
+  {"cue": "and you are done", "in": 12.0, "out": 12.4, "zoom": true, "after": 4}
+]
