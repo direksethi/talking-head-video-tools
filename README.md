@@ -23,7 +23,7 @@ Most of the tools work from word timestamps: a JSON file that says when each wor
 You need Python 3.9 or newer, and `ffmpeg` and `ffprobe` on your PATH. ffmpeg must be built with libx264 and libass (`reel.py` uses the `ass` filter); the usual distribution builds have both.
 
 ```sh
-git clone <this repository>
+git clone https://github.com/direksethi/talking-head-video-tools.git
 cd talking-head-video-tools
 python3 -m venv .venv
 . .venv/bin/activate
